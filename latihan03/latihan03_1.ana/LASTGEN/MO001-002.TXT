@@ -1,0 +1,4 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+df		FCNX+	MyConnection3	
+MyConnection2		CNX+		
+MyConnection3		CNX+		

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ANALYSE GenNum="1" VersionStructure="2" RepertoireDefaut=""><CONNEXION Nom="MyConnection1" Type="15"><SOURCE>localhost</SOURCE><USER>root</USER><MDP>3sbGl56Tk86SjJa9</MDP><DB>ac_db</DB><INFOS_ETENDUES>;Initial Catalog=ac_db</INFOS_ETENDUES></CONNEXION></ANALYSE>
